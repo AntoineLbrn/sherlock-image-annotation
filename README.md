@@ -2,8 +2,8 @@
 
 ## Set up
 
-Install **ONLY** from sherlock-image-annotation and not mirador-annotation submodule.
- - npm install
- - npm start
+Install **ONLY** ```package.json``` from sherlock-image-annotation and not mirador-annotation submodule.
+ - ```npm install```
+ - ```npm start```
 
 
